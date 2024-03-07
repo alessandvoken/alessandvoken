@@ -2,7 +2,7 @@
   
 - 🌱 I’m currently at IBM
 
-- 👀 I’m interested in Frontend Technologies and Visual Design
+- 👀 I’m curious about frontend technologies and visual design
 
 - ⚡ Fun fact: I was a photojournalist before
 
