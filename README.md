@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @alessandvoken
   
-- 🌱 I’m currently at IBM
-
-- 👀 I’m curious about frontend technologies and visual design
+- 🌱 I’m currently working at IBM
 
 - ⚡ Fun fact: I was a photojournalist before
 
